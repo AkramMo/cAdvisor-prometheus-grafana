@@ -1,4 +1,4 @@
-# cAdvisor-prometheus-grafana# Docker Monitoring Stack
+# cAdvisor-prometheus-grafana monitoring stack
 
 A monitoring solution for Docker hosts and containers with Prometheus, Grafana, cAdvisor, NodeExporter.
 
